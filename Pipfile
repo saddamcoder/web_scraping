@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 jupyter = "*"
 autoscraper = "*"
+flask = "*"
+requests = "*"
 
 [dev-packages]
 
